@@ -9,6 +9,7 @@ Public study notes for the companion [Biomedical Data Analysis with Python](http
 | Order | Note | Topics |
 | --- | --- | --- |
 | 01 | [NumPy Basics and Vectorized Thinking](01-numpy-bme-basics.pdf) | Boolean masks, axis reductions, reshaping, missing values, file I/O, anomaly detection, and matrix operations |
+| 02 | [Python Data Workflows](02-python-data-workflows.pdf) | `zip`, list comprehensions, `enumerate`, `Counter`, `defaultdict`, `deque`, and generators |
 
 ## How to use these notes
 

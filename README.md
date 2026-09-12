@@ -12,6 +12,8 @@ Public study notes for the companion [Biomedical Data Analysis with Python](http
 | 02 | [Python Data Workflows](02-python-data-workflows.pdf) | `zip`, list comprehensions, `enumerate`, `Counter`, `defaultdict`, `deque`, and generators |
 | 03 | [Pandas Basics](03-pandas-basics.pdf) | DataFrames, filtering, grouping, missing values, CSV I/O, datetime processing, merging, rolling windows, and pivot tables |
 
+| 04 | [Matplotlib Capstone](04-matplotlib-capstone.pdf) | An end-to-end patient-vitals analysis: missing-value imputation, z-score outlier removal, grouped summaries, histograms, box plots, and correlation heatmaps |
+
 ## How to use these notes
 
 1. Read the PDF in numerical order.

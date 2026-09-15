@@ -14,6 +14,8 @@ Public study notes for the companion [Biomedical Data Analysis with Python](http
 
 | 04-05 | [Matplotlib and Capstone](04-05-matplotlib-capstone.pdf) | Matplotlib visualization and an end-to-end patient-vitals analysis: missing-value imputation, z-score outlier removal, grouped summaries, histograms, box plots, and correlation heatmaps |
 
+| 06 | [Introduction to Machine Learning](06-intro-ml.pdf) | Supervised classification, train/test splits, decision trees, logistic regression, evaluation, feature importance, and overfitting |
+
 ## How to use these notes
 
 1. Read the PDF in numerical order.

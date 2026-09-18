@@ -16,6 +16,8 @@ Public study notes for the companion [Biomedical Data Analysis with Python](http
 
 | 06 | [Introduction to Machine Learning](06-intro-ml.pdf) | Supervised classification, train/test splits, decision trees, logistic regression, evaluation, feature importance, and overfitting |
 
+| 07 | [Machine Learning Cross-Validation](07-ml-cross-validation.pdf) | Cross-validation, fold scores, model selection, and reliable evaluation of supervised-learning models |
+
 ## How to use these notes
 
 1. Read the PDF in numerical order.

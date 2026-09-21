@@ -18,6 +18,8 @@ Public study notes for the companion [Biomedical Data Analysis with Python](http
 
 | 07 | [Machine Learning Cross-Validation](07-ml-cross-validation.pdf) | Cross-validation, fold scores, model selection, and reliable evaluation of supervised-learning models |
 
+| 08 | [Diabetes Prediction Kaggle Project](08-diabetes-prediction.pdf) | End-to-end diabetes-prediction workflow: zero-value cleaning, exploratory analysis, feature scaling, class-balanced logistic regression, and evaluation |
+
 ## How to use these notes
 
 1. Read the PDF in numerical order.

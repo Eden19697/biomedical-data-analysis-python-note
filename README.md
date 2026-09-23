@@ -20,6 +20,8 @@ Public study notes for the companion [Biomedical Data Analysis with Python](http
 
 | 08 | [Diabetes Prediction Kaggle Project](08-diabetes-prediction.pdf) | End-to-end diabetes-prediction workflow: zero-value cleaning, exploratory analysis, feature scaling, class-balanced logistic regression, and evaluation |
 
+| 09 | [Regression: Medical Insurance Cost](09-regression-medical-insurance-cost.pdf) | Medical-insurance cost regression: data inspection, feature encoding, BMI and smoking interactions, linear regression, RMSE, R², and residual diagnostics |
+
 ## How to use these notes
 
 1. Read the PDF in numerical order.
